@@ -36,7 +36,7 @@ public final class Constants {
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
     public static final String PROP_BUILD_VERSION = "ro.bootleggers.version_number";
     public static final String PROP_BUILD_VERSION_INCREMENTAL = "ro.build.version.incremental";
-    public static final String PROP_DEVICE = "ro.product.device";
+    public static final String PROP_DEVICE = "ro.bootleggers.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
     public static final String PROP_RELEASE_TYPE = "ro.bootleggers.releasetype";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "lineage.updater.allow_downgrading";
